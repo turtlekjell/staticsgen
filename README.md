@@ -1,0 +1,2 @@
+# staticsgen
+Static Site Generator
